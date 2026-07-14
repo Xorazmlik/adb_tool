@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)
 ![ADB](https://img.shields.io/badge/ADB-Required-red.svg)
-![Stars](https://img.shields.io/github/stars/VIPOS-testuser/adb_tool?style=social)
+![Stars](https://img.shields.io/github/stars/Xorazmlik/adb_tool?style=social)
 
 **Mobil qurilmalardan forensik ma'lumotlarni olish va tahlil qilish uchun professional vosita**
 
@@ -93,7 +93,7 @@ sudo dnf install android-tools
 
 ```bash
 # Repository ni clone qilish
-git clone https://github.com/VIPOS-testuser/adb_tool.git
+git clone https://github.com/Xorazmlik/adb_tool.git
 cd adb_tool
 
 # Executable qilish
@@ -376,7 +376,7 @@ git push origin feature/yangi-funksiya
 
 Xato topsangiz yoki taklif bo'lsa:
 
-1. [Issues](https://github.com/VIPOS-testuser/adb_tool/issues) bo'limida yangi issue oching
+1. [Issues](https://github.com/Xorazmlik/adb_tool/issues) bo'limida yangi issue oching
 2. Xatoni batafsil tasvirlang
 3. Screenshot qo'shing (agar mumkin bo'lsa)
 4. Yoki Telegram orqali bog'laning: [@Xorazmlik_2004](https://t.me/Xorazmlik_2004)
@@ -406,7 +406,7 @@ MIT License - batafsil ma'lumot uchun [LICENSE](LICENSE) faylini ko'ring.
 ```
 MIT License
 
-Copyright (c) 2024 VIPOS-testuser
+Copyright (c) 2024 Xorazmlik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -431,10 +431,10 @@ SOFTWARE.
 
 ## 👨‍💻 Muallif
 
-**VIPOS-testuser**
-- 🌐 GitHub: [@VIPOS-testuser](https://github.com/VIPOS-testuser)
+**VIP**
+- 🌐 GitHub: [@VIPOS-testuser](https://github.com/Xorazmlik)
 - 📱 Telegram: [@Xorazmlik_2004](https://t.me/Xorazmlik_2004)
-- 🔗 Repository: [adb_tool](https://github.com/VIPOS-testuser/adb_tool.git)
+- 🔗 Repository: [adb_tool](https://github.com/Xorazmlik/adb_tool.git)
 
 ---
 
@@ -442,7 +442,7 @@ SOFTWARE.
 
 Savollar, takliflar yoki muammolar bo'lsa, bog'laning:
 
-- 📧 GitHub Issues: [Yangi issue ochish](https://github.com/VIPOS-testuser/adb_tool/issues/new)
+- 📧 GitHub Issues: [Yangi issue ochish](https://github.com/Xorazmlik/adb_tool/issues/new)
 - 💬 Telegram: [@Xorazmlik_2004](https://t.me/Xorazmlik_2004)
 
 ---
@@ -462,14 +462,14 @@ Qo'llab-quvvatlash:
 
 ## 📊 Statistika
 
-![GitHub Stars](https://img.shields.io/github/stars/VIPOS-testuser/adb_tool?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/VIPOS-testuser/adb_tool?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/VIPOS-testuser/adb_tool?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/VIPOS-testuser/adb_tool)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/VIPOS-testuser/adb_tool)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/VIPOS-testuser/adb_tool)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/VIPOS-testuser/adb_tool)
-![GitHub Language](https://img.shields.io/github/languages/top/VIPOS-testuser/adb_tool)
+![GitHub Stars](https://img.shields.io/github/stars/Xorazmlik/adb_tool?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Xorazmlik/adb_tool?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/Xorazmlik/adb_tool?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/Xorazmlik/adb_tool)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Xorazmlik/adb_tool)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Xorazmlik/adb_tool)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Xorazmlik/adb_tool)
+![GitHub Language](https://img.shields.io/github/languages/top/Xorazmlik/adb_tool)
 
 ---
 
@@ -520,7 +520,7 @@ Ushbu loyihani yaratishda yordam bergan barcha open-source jamoalarga rahmat:
 
 ```bash
 # 1. Clone
-git clone https://github.com/VIPOS-testuser/adb_tool.git
+git clone https://github.com/Xorazmlik/adb_tool.git
 
 # 2. Kirish
 cd adb_tool
@@ -543,7 +543,6 @@ sudo python3 adb_tool.py
 
 **⚠️ Faqat qonuniy maqsadlarda foydalaning! ⚠️**
 
-[![GitHub](https://img.shields.io/badge/GitHub-VIPOS--testuser-181717?style=for-the-badge&logo=github)](https://github.com/VIPOS-testuser)
 [![Telegram](https://img.shields.io/badge/Telegram-Xorazmlik__2004-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Xorazmlik_2004)
 
 [⬆ Yuqoriga qaytish](#-adb-forensics-data-extractor-v20)
