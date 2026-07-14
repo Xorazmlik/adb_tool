@@ -432,7 +432,7 @@ SOFTWARE.
 ## 👨‍💻 Muallif
 
 **VIP**
-- 🌐 GitHub: [@VIPOS-testuser](https://github.com/Xorazmlik)
+- 🌐 GitHub: [@Xorazmlik](https://github.com/Xorazmlik)
 - 📱 Telegram: [@Xorazmlik_2004](https://t.me/Xorazmlik_2004)
 - 🔗 Repository: [adb_tool](https://github.com/Xorazmlik/adb_tool.git)
 
